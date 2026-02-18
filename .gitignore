@@ -1,0 +1,22 @@
+# ── 데이터 파일 (용량 크니까 GitHub에 안 올림) ──
+data/raw/
+data/processed/
+*.db
+
+# ── Python 자동 생성 파일 ──
+__pycache__/
+*.pyc
+.venv/
+
+# ── Jupyter 자동 생성 ──
+.ipynb_checkpoints/
+
+# ── OS 자동 생성 ──
+.DS_Store
+Thumbs.db
+
+# ── VS Code 설정 (내 설정이니까 안 올림) ──
+.vscode/
+
+# ── 환경 변수 (API 키 같은 비밀 정보) ──
+.env
