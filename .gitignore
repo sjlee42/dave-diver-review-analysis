@@ -19,4 +19,4 @@ Thumbs.db
 .vscode/
 
 # ── 환경 변수 (API 키 같은 비밀 정보) ──
-.env
+.envnotebooks/data/
