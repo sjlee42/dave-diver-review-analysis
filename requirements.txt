@@ -24,3 +24,4 @@ streamlit>=1.28.0
 
 # 기타
 tqdm>=4.65.0
+networkx
